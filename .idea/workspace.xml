@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63826773-1d5b-4083-a5b7-ef438984a8ce" name="Changes" comment="write test case 4">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/dbc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dbc/NonRepeatedCharactersFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/dbc/NonRepeatedCharactersFinder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +41,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "full.screen.before.presentation.mode": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
@@ -54,7 +60,7 @@
       <recent name="io.github.dbc" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NonRepeatedCharactersFinderTest.shouldReturnTheFirstNonRepeatedCharacter">
+  <component name="RunManager" selected="JUnit.NonRepeatedCharactersFinderTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.dbc.Main" />
       <module name="JCP_C1_P2" />
@@ -130,9 +136,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NonRepeatedCharactersFinderTest" />
         <item itemvalue="JUnit.NonRepeatedCharactersFinderTest.shouldReturnTheFirstNonRepeatedCharacter" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.NonRepeatedCharactersFinderTest" />
         <item itemvalue="JUnit.NonRepeatedCharactersFinderTest.displayNameForTheTest" />
         <item itemvalue="Application.NonRepeatedCharactersFinder" />
       </list>
@@ -148,6 +154,7 @@
       <updated>1652556065957</updated>
       <workItem from="1652556068328" duration="2497000" />
       <workItem from="1652755565713" duration="4012000" />
+      <workItem from="1652951582024" duration="2317000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1652556152973</created>
@@ -221,6 +228,9 @@
     </task>
     <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
